@@ -23,14 +23,20 @@ For each weapon, you can:
 * Change the selected attack's Damage, Crit Multipler, Cooldown, Delay, Hit Frame, Hitbox, Sounds and Sprites
 * View the attack animation in motion
 * View the full combo animation in motion
-* Change aditional properties (very limited, changing crit condition is not possible)
+* Change aditional properties (very limited)
 
 For each item, you can:
 * Change the color it scales with (Brutality, Tactics, Survival, or a combination of them)
 * Change the damage of the item, if it has damage
 * Change the cooldown of the item
 
+### Limitations
+
+Not everything can be changed, as some items are hard coded to have a specific behavior. That is why you can't change the crit condition on weapons, some Legendary Affixes don't work in all weapons, and why you don't have full control on any additional property the item might have.
+
 ## Affixes
+
+To change editable values from item affixes.
 
 ## Blueprints
 
