@@ -1,6 +1,8 @@
 # Dead Cells Mod UI
 A comprehensive interface for modding the game Dead Cells
 
+## With the development of https://github.com/dead-cells-core-modding/core this tool might be more impactful and its restrictions reduced
+
 Modding in Dead Cells is quite limited, but it can be made easier so anyone can adjust the game to their liking.
 
 ## THIS REPOSITORY IS ONLY IN ITS CONCEPT STAGE AND HAS NO PLANNED DEADLINES
